@@ -15,16 +15,6 @@ export const NavLinks = [
         label: "Candidates"
     },
     {
-        id: 4,
-        url: "#",
-        label: "Blog"
-    },
-    {
-        id: 5,
-        url: "#",
-        label: "Home"
-    },
-    {
         id: 6,
         url: "#",
         label: "Contact"
